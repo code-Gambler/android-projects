@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Students</string>
+    <string-array name="student_name">
+        <item>Consuelo</item>
+        <item>Steven David Pillay</item>
+        <item>Radil</item>
+        <item>Herkus</item>
+        <item>Gökhan</item>
+        <item>Mirko</item>
+        <item>Mestan</item>
+        <item>Soline</item>
+        <item>Naomi</item>
+        <item>مهدیس</item>
+        <item>Kristen</item>
+        <item>Daribog</item>
+        <item>Alvar</item>
+        <item>Aubrey</item>
+        <item>Brooke</item>
+    </string-array>
+    <string-array name="phone">
+        <item>649-773-225</item>
+        <item>048-674-64-23</item>
+        <item>(067) M57-9528</item>
+        <item>94018942</item>
+        <item>(060)-013-0617</item>
+        <item>068-9875-326</item>
+        <item>(586)-788-8285</item>
+        <item>06-96-10-22-66</item>
+        <item>(336)-274-8044</item>
+        <item>0920-863-1479</item>
+        <item>(528) 222-5460</item>
+        <item>(097) W60-5570</item>
+        <item>40932410</item>
+        <item>L88 C17-4200</item>
+        <item>(546)-365-6980</item>
+    </string-array>
+</resources>

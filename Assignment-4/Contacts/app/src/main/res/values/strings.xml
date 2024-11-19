@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string-array name="contact_name">
+        <item>Consuelo</item>
+        <item>Steven David Pillay</item>
+        <item>Radil</item>
+        <item>Herkus</item>
+        <item>Gökhan</item>
+        <item>Mirko</item>
+        <item>Mestan</item>
+        <item>Soline</item>
+        <item>Naomi</item>
+        <item>مهدیس</item>
+        <item>Kristen</item>
+        <item>Daribog</item>
+        <item>Alvar</item>
+        <item>Aubrey</item>
+        <item>Brooke</item>
+        <item>Jaime</item>
+        <item>Zachary</item>
+        <item>Leroy</item>
+        <item>Andrés</item>
+        <item>Mustafa</item>
+        <item>Simon</item>
+        <item>Shreedevi</item>
+        <item>Lesa</item>
+        <item>Lester</item>
+        <item>Johannes</item>
+        <item>Lorenzo</item>
+        <item>Wendolin</item>
+        <item>Iara</item>
+        <item>Torjus</item>
+        <item>Scarlett</item>
+        <item>Kurt</item>
+        <item>Hervé</item>
+        <item>Magret</item>
+        <item>Joel</item>
+        <item>Hilla</item>
+        <item>Marko</item>
+        <item>Justin</item>
+        <item>Ella</item>
+        <item>April</item>
+        <item>Iman</item>
+        <item>Bobby</item>
+        <item>Nawal</item>
+        <item>Brankica</item>
+        <item>Inès</item>
+        <item>Ayşe</item>
+        <item>Aiden</item>
+        <item>Jordan</item>
+        <item>Yagnesh</item>
+        <item>ایلیا</item>
+        <item>Lukas</item>
+        <item>Earl</item>
+        <item>Onni</item>
+        <item>Rebekka</item>
+        <item>Kristijan</item>
+        <item>Noah</item>
+        <item>Rhonda</item>
+        <item>Polyan</item>
+        <item>Anusha</item>
+        <item>Katherine</item>
+        <item>Eliana</item>
+    </string-array>
+    <string-array name="email">
+        <item>consuelo.rojas@example.com</item>
+        <item>spillay6@myseneca.ca</item>
+        <item>radilo.bilik@example.com</item>
+        <item>herkus.gulli@example.com</item>
+        <item>gokhan.tuglu@example.com</item>
+        <item>mirko.novakovic@example.com</item>
+        <item>mestan.sinanoglu@example.com</item>
+        <item>soline.legrand@example.com</item>
+        <item>naomi.green@example.com</item>
+        <item>mhdys.mhmdkhn@example.com</item>
+        <item>kristen.richards@example.com</item>
+        <item>daribog.polyak@example.com</item>
+        <item>alvar.joakimsen@example.com</item>
+        <item>aubrey.patel@example.com</item>
+        <item>brooke.chen@example.com</item>
+        <item>jaime.santiago@example.com</item>
+        <item>zachary.turner@example.com</item>
+        <item>leroy.fleming@example.com</item>
+        <item>andres.jimenez@example.com</item>
+        <item>mustafa.lindas@example.com</item>
+        <item>simon.brun@example.com</item>
+        <item>shreedevi.dsouza@example.com</item>
+        <item>lesa.henderson@example.com</item>
+        <item>lester.kim@example.com</item>
+        <item>johannes.renaud@example.com</item>
+        <item>lorenzo.ortiz@example.com</item>
+        <item>wendolin.caraballo@example.com</item>
+        <item>iara.moraes@example.com</item>
+        <item>torjus.tveiten@example.com</item>
+        <item>scarlett.coleman@example.com</item>
+        <item>kurt.gray@example.com</item>
+        <item>herve.blanc@example.com</item>
+        <item>magret.clasen@example.com</item>
+        <item>joel.woods@example.com</item>
+        <item>hilla.saarela@example.com</item>
+        <item>marko.dupuis@example.com</item>
+        <item>justin.harcourt@example.com</item>
+        <item>ella.masson@example.com</item>
+        <item>april.mendoza@example.com</item>
+        <item>iman.metin@example.com</item>
+        <item>bobby.carpenter@example.com</item>
+        <item>nawal.berland@example.com</item>
+        <item>brankica.tomic@example.com</item>
+        <item>ines.martin@example.com</item>
+        <item>ayse.tutuncu@example.com</item>
+        <item>aiden.bouchard@example.com</item>
+        <item>jordan.brooks@example.com</item>
+        <item>yagnesh.das@example.com</item>
+        <item>yly.kmyrn@example.com</item>
+        <item>lukas.dubois@example.com</item>
+        <item>earl.hunter@example.com</item>
+        <item>onni.salmela@example.com</item>
+        <item>rebekka.grigorchuk@example.com</item>
+        <item>kristijan.stojkovic@example.com</item>
+        <item>noah.gill@example.com</item>
+        <item>rhonda.ray@example.com</item>
+        <item>polyan.kotlyarenko@example.com</item>
+        <item>anusha.gatty@example.com</item>
+        <item>katherine.stewart@example.com</item>
+        <item>eliana.dasilva@example.com</item>
+    </string-array>
+    <string-array name="phone">
+        <item>649-773-225</item>
+        <item>048-674-64-23</item>
+        <item>(067) M57-9528</item>
+        <item>94018942</item>
+        <item>(060)-013-0617</item>
+        <item>068-9875-326</item>
+        <item>(586)-788-8285</item>
+        <item>06-96-10-22-66</item>
+        <item>(336)-274-8044</item>
+        <item>0920-863-1479</item>
+        <item>(528) 222-5460</item>
+        <item>(097) W60-5570</item>
+        <item>40932410</item>
+        <item>L88 C17-4200</item>
+        <item>(546)-365-6980</item>
+        <item>646-824-524</item>
+        <item>(111)-470-8649</item>
+        <item>081-247-4724</item>
+        <item>640-391-872</item>
+        <item>90098281</item>
+        <item>06-27-42-17-23</item>
+        <item>8678932760</item>
+        <item>(832) 680-9166</item>
+        <item>07940 288238</item>
+        <item>079 220 98 15</item>
+        <item>614-558-307</item>
+        <item>(609) 415 3963</item>
+        <item>(55) 3392-8711</item>
+        <item>99433765</item>
+        <item>081-898-6403</item>
+        <item>(260) 326-7225</item>
+        <item>077 952 09 81</item>
+        <item>0172-6072424</item>
+        <item>081-590-7692</item>
+        <item>043-899-53-07</item>
+        <item>075 935 60 79</item>
+        <item>S34 Q35-4933</item>
+        <item>077 398 42 52</item>
+        <item>0483-812-783</item>
+        <item>(06) 48420337</item>
+        <item>07656 345238</item>
+        <item>92017033</item>
+        <item>061-6296-763</item>
+        <item>06-13-03-08-56</item>
+        <item>(819)-269-8606</item>
+        <item>F43 H69-1209</item>
+        <item>(360) 323-3682</item>
+        <item>8955020652</item>
+        <item>0969-302-1718</item>
+        <item>076 445 65 20</item>
+        <item>07206 336941</item>
+        <item>040-827-75-27</item>
+        <item>(068) J53-3467</item>
+        <item>062-1930-404</item>
+        <item>S73 D23-9840</item>
+        <item>0484-810-612</item>
+        <item>(096) M07-5512</item>
+        <item>9119681518</item>
+        <item>0458-970-379</item>
+        <item>076 464 31 30</item>
+    </string-array>
+</resources>
